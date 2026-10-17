@@ -1,0 +1,15 @@
+/workspaces/sdev240-final-project/bin/Debug/net8.0/sdev240-final-project
+/workspaces/sdev240-final-project/bin/Debug/net8.0/sdev240-final-project.deps.json
+/workspaces/sdev240-final-project/bin/Debug/net8.0/sdev240-final-project.runtimeconfig.json
+/workspaces/sdev240-final-project/bin/Debug/net8.0/sdev240-final-project.dll
+/workspaces/sdev240-final-project/bin/Debug/net8.0/sdev240-final-project.pdb
+/workspaces/sdev240-final-project/obj/Debug/net8.0/sdev240-final-project.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/sdev240-final-project/obj/Debug/net8.0/sdev240-final-project.AssemblyInfoInputs.cache
+/workspaces/sdev240-final-project/obj/Debug/net8.0/sdev240-final-project.AssemblyInfo.cs
+/workspaces/sdev240-final-project/obj/Debug/net8.0/sdev240-final-project.csproj.CoreCompileInputs.cache
+/workspaces/sdev240-final-project/obj/Debug/net8.0/sdev240-final-project.sourcelink.json
+/workspaces/sdev240-final-project/obj/Debug/net8.0/sdev240-final-project.dll
+/workspaces/sdev240-final-project/obj/Debug/net8.0/refint/sdev240-final-project.dll
+/workspaces/sdev240-final-project/obj/Debug/net8.0/sdev240-final-project.pdb
+/workspaces/sdev240-final-project/obj/Debug/net8.0/sdev240-final-project.genruntimeconfig.cache
+/workspaces/sdev240-final-project/obj/Debug/net8.0/ref/sdev240-final-project.dll
