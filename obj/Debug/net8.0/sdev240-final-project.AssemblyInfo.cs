@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sdev240-final-project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eae38ab385e104e521cbb60f696df1615eb92734")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd2e31e35b58aced6d3d1536de7fbd43c52a635")]
 [assembly: System.Reflection.AssemblyProductAttribute("sdev240-final-project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sdev240-final-project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
