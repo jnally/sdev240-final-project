@@ -25,6 +25,10 @@ A classic word puzzle game built with C# and .NET Windows Forms. This applicatio
 4. **Solve the Puzzle:** At the start of any turn, you can type the entire phrase into the solve box and press Enter.
 5. **Win/Loss Conditions:** You win by either solving the puzzle directly or guessing all the hidden letters. You lose if you accumulate 6 strikes (this builds a complete hangman).
 
+## Video
+
+https://github.com/user-attachments/assets/801dab25-7692-4026-8e4b-3a034808a547
+
 ## UML
 
 <img width="975" height="808" alt="image" src="https://github.com/user-attachments/assets/849aa127-c957-4a17-bc5f-2647157a5cd6" />
