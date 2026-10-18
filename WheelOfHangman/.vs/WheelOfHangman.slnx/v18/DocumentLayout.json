@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|c:\\users\\jeremy\\source\\repos\\jnally\\sdev240-final-project\\wheelofhangman\\puzzles.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|solutionrelative:puzzles.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\wheelofhangmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|solutionrelative:wheelofhangmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|c:\\users\\jeremy\\source\\repos\\jnally\\sdev240-final-project\\wheelofhangman\\wheelofhangmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\wheelofhangmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|solutionrelative:wheelofhangmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|c:\\users\\jeremy\\source\\repos\\jnally\\sdev240-final-project\\wheelofhangman\\puzzles.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|solutionrelative:puzzles.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "puzzles.txt",
               "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\puzzles.txt",
               "RelativeDocumentMoniker": "puzzles.txt",
@@ -62,21 +62,22 @@
               "RelativeDocumentMoniker": "WheelOfHangmanForm.cs",
               "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\WheelOfHangmanForm.cs",
               "RelativeToolTip": "WheelOfHangmanForm.cs",
-              "ViewState": "AgIAAKwBAAAAAAAAAAAqwM8BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM8BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T22:30:17.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "WheelOfHangmanForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\WheelOfHangmanForm.cs",
               "RelativeDocumentMoniker": "WheelOfHangmanForm.cs",
               "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\WheelOfHangmanForm.cs [Design]",
               "RelativeToolTip": "WheelOfHangmanForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T22:30:33.129Z"
+              "WhenOpened": "2026-10-17T22:30:33.129Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
