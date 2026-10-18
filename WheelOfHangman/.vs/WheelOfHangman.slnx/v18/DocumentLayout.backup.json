@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|solutionrelative:wheelofhangmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|c:\\users\\jeremy\\source\\repos\\jnally\\sdev240-final-project\\wheelofhangman\\wheelofhangmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|solutionrelative:wheelofhangmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|c:\\users\\jeremy\\source\\repos\\jnally\\sdev240-final-project\\wheelofhangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|c:\\users\\jeremy\\source\\repos\\jnally\\sdev240-final-project\\wheelofhangman\\puzzles.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|solutionrelative:puzzles.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\wheelofhangmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83D8349F-25CE-F136-A5F0-A0DBBCAF895A}|WheelOfHangman.csproj|solutionrelative:wheelofhangmanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,8 +29,17 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T00:32:11.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -49,22 +62,21 @@
               "RelativeDocumentMoniker": "WheelOfHangmanForm.cs",
               "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\WheelOfHangmanForm.cs",
               "RelativeToolTip": "WheelOfHangmanForm.cs",
-              "ViewState": "AgIAALkBAAAAAAAAAAAqwM8BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKwBAAAAAAAAAAAqwM8BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T22:30:17.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WheelOfHangmanForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\WheelOfHangmanForm.cs",
               "RelativeDocumentMoniker": "WheelOfHangmanForm.cs",
               "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\jnally\\sdev240-final-project\\WheelOfHangman\\WheelOfHangmanForm.cs [Design]",
               "RelativeToolTip": "WheelOfHangmanForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T22:30:33.129Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-17T22:30:33.129Z"
             }
           ]
         }
